@@ -1,0 +1,151 @@
+body{
+    margin:auto;
+}
+#main {
+    width: auto;
+    height: 434px;
+   border:0.5px solid transparent;
+    background-image: url(./Imagess/152144-large-tumblr-theme-backgrounds-1920x1226-for-hd.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 434px;
+}
+#firstimg {
+    width: 23%;
+    height: 243px;
+    float: left;
+    margin-left: 21%;
+   
+    margin-top: 8%;
+    box-shadow: 8px 15px 8px grey;
+}
+#firstimg > img {
+    width: 100%;
+    height: 243px;
+}
+#about {
+    width: 50%;
+    height: 217px;
+    margin-left: 49%;
+    margin-top: 6%;
+   
+}
+
+#social {
+    width: 34%;
+    height: 30px;
+    
+    margin-left: 52%;
+    float: left;
+   
+}
+
+#social>img{
+    width:7%;
+    height: 30px;
+   
+}
+
+
+#new {
+    width: auto;
+    height: 529px;
+  
+}
+#skil {
+    width: auto;
+    height: 50px;
+    text-align: center;
+    background-color: #41545c;
+    font-size: 36px;
+    color: white;
+}
+#add {
+    width: 94%;
+    height: 448px;
+    margin-left: 6%;
+    margin-top: 3%;
+    
+}
+.tile {
+    box-shadow: 10px 20px 10px grey;
+    width: 11%;
+    height: 146px;
+    float: left;
+    margin: 27px;
+    margin-left: 13%;
+}
+.tile >img {
+    width: 101%;
+    height: 147px;
+}
+.skil2 {
+    width: auto;
+    height: 50px;
+    text-align: center;
+    background-color: #41545c;
+    font-size: 36px;
+    color: white;
+}
+#new2 {
+    width: auto;
+    height: 500px;
+    
+}
+.project {
+    width: 43%;
+    height: 302px;
+    margin: 3%;
+ box-shadow: 10px 20px 10px grey;
+  
+    float: left;
+    margin-left: 3%;
+}
+.project > img {
+    width: 100%;
+    height: 302px;
+    text-decoration: none;
+}
+.zomato {
+    width: 43%;
+    height: 30px;
+  
+    float: left;
+    margin-left: 5%;
+    margin-top:1%;
+}
+.skil1 {
+    width: auto;
+    height: 50px;
+    text-align: center;
+    background-color: #41545c;
+    font-size: 36px;
+    color: white;
+}
+#new3{
+    width:auto;
+    height:450px;
+    
+  
+}
+.map {
+    width: 43%;
+    height: 320px;
+    margin: 3%;
+    float: left;
+    margin-left: 3%;
+}
+.map1 {
+    width: 30%;
+    height: 27px;
+    margin-left: 13%;
+    margin-top: -5px;
+    float: left;
+    font-size: 72%;
+}
+
+footer{
+    width:auto;
+    height:30px;
+   
+ 
+}
